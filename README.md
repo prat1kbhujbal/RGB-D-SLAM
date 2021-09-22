@@ -1,4 +1,4 @@
-# Mappin-and-SLAM
+# Mapping-and-SLAM
 
 ![alt text](src/sc2.png)
 
