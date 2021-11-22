@@ -1,4 +1,4 @@
-# Mapping-and-SLAM
+# RGB-D SLAM
 
 ![alt text](src/sc2.png)
 
